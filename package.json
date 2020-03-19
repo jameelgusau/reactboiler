@@ -1,7 +1,7 @@
 {
-  "name": "calendar",
+  "name": "React Boilerplate",
   "version": "1.0.0",
-  "description": "Calendar App built with React, Redux and Webpack",
+  "description": "App built with React, Redux and Webpack",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jameelgusau/reactboiler.git"
   },
-  "author": "Oche Onoja",
+  "author": "Shehu Jamilu Gusau",
   "license": "ISC",
   "bugs": {
     "url": ""
