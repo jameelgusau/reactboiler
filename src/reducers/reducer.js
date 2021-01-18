@@ -1,4 +1,11 @@
-const initState = {};
+
+const initState = {
+  saveUser: {
+    userInfo: {
+      role: 'admin'
+    }
+  }
+};
 
 const store = (state = initState, action) => {
   switch (action.type) {
